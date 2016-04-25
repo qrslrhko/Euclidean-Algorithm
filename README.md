@@ -18,7 +18,7 @@ int a = Integer.parseInt(input_a);
 
 The output is like this:
 ```bash
-enter two numbers to get Greatest Common Divisor(GCD)
+enter two numbers to get their Greatest Common Divisor(GCD)
 Enter the first number
 270
 Enter the second number :
