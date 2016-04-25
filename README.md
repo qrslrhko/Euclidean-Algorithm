@@ -21,7 +21,7 @@ This algorithm can generate maximun common divisor of two integers.
 enter two numbers to get Greatest Common Divisor(GCD)
 Enter the first number
 270
-Enter the second number : > We loved with a love that was more than love
+Enter the second number : 
 192
 
 GCD(270, 192)
