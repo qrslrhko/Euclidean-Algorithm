@@ -1,6 +1,8 @@
 # Euclidean-Algorithm
 
 
+The idea of Euclidean algorithm is from [here] (https://www.khanacademy.org/computing/computer-science/cryptography/modarithmetic/a/the-euclidean-algorithm)
+
 I am a begineer in Java, my achievements in this code are:
 
 ##### learn how to pass user's input by bufferedReaderStream
