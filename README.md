@@ -14,3 +14,18 @@ String input_a = br.readLine();
 ```java
 int a = Integer.parseInt(input_a);
 ```
+##### how to pass arguments to other classes
+
+The output is like this:
+```bash
+enter two numbers to get Greatest Common Divisor(GCD)
+Enter the first number
+270
+Enter the second number :
+192
+GCD(270, 192)
+=GCD(192 , 78) 
+=GCD(78 , 36) 
+=GCD(36 , 6) 
+=GCD(6 , 0) 
+```
