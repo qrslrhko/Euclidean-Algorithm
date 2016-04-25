@@ -18,13 +18,18 @@ This algorithm can generate maximun common divisor of two integers.
 
 **Example and output is like this:**
 
-enter two numbers to get Greatest Common Divisor(GCD)
+## enter two numbers to get Greatest Common Divisor(GCD)
 Enter the first number
 270
-Enter the second number :
+Enter the second number : > We loved with a love that was more than love
 192
+
 GCD(270, 192)
 =GCD(192 , 78) 
 =GCD(78 , 36) 
 =GCD(36 , 6) 
-=GCD(6 , 0)
+=GCD(6 , 0)###
+
+##
+
+
