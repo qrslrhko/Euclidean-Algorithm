@@ -3,8 +3,8 @@
 I am a begineer in Java. 
 my achievements in this code are:
 * learn how to pass user's input by bufferedReaderStream
-  BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
- String intput_b =  br.readLine();
+  BufferedReader br = new BufferedReader(new InputStreamReader(System.in));\\
+ String intput_b =  br.readLine();\\
 
 *how to convert string to integer
  int b = Integer.parseInt(input_b);
