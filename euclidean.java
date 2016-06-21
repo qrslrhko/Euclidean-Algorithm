@@ -22,7 +22,7 @@ public class euclidean {
 			
 			if(b > a ){
 				
-				mod_num = a%b;
+				mod_num = b%a;
 				a = a;
 				b = mod_num;
 				
